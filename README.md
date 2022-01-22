@@ -25,4 +25,3 @@ I took the inspiration from Gnome file explorer search in Linux, so for those of
 
 - Download and extract the latest [release](https://github.com/Gil-Tayar/BasicSearch/releases).
 - Install using setup.exe
-- That it
